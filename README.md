@@ -121,5 +121,3 @@ For any questions or issues, please refer to the documentation of the respective
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-You can create a README.md file in your project directory and paste the content above into it. This will serve as a detailed guide for anyone working on your Nginx Docker project.
